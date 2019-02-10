@@ -1,3 +1,3 @@
 # PyPointer
 
-When the name of the language is based off of Monty Python, you have the license to do silly things with it.
+When the language is named after Monty Python, that gives you the license to do silly things with it.
